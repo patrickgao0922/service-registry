@@ -1,5 +1,5 @@
 {
-  "name": "node-service-registry",
+  "name": "service-registry-gateway",
   "version": "1.0.0",
   "description": "node service registry library",
   "main": "./dist/index.js",
