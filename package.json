@@ -1,5 +1,5 @@
 {
-  "name": "service-registry",
+  "name": "node-service-registry",
   "version": "1.0.0",
   "description": "node service registry library",
   "main": "./dist/index.js",
@@ -16,6 +16,10 @@
     "registry",
     "node"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickgao0922/service-registry"
+  },
   "author": "Patrick Gao <patrickgao0922@gmail.com>",
   "license": "ISC",
   "dependencies": {
