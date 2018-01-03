@@ -1,0 +1,16 @@
+{
+  "name": "service-registry",
+  "version": "1.0.0",
+  "description": "node service registry library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register --timeout 80000"
+  },
+  "keywords": [
+    "service",
+    "registry",
+    "node"
+  ],
+  "author": "Patrick Gao <patrickgao0922@gmail.com>",
+  "license": "ISC"
+}
